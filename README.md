@@ -14,6 +14,7 @@ Awesome resources and modules for Streams in Node
 - [dominictarr/map-stream](https://github.com/dominictarr/map-stream) - refactored out of event-stream
 - [dominictarr/split](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk. matcher may be a String, or a RegExp
 - [dominictarr/stream-combiner](https://github.com/dominictarr/stream-combiner) - Turn a pipeline into a single stream. Combine returns a stream that writes to the first stream and reads from the last stream
+- [dominictarr/stream-spec](https://github.com/dominictarr/stream-spec) - executable specification for Stream (make testing streams easy)
 - [feross/multistream](https://github.com/feross/multistream) - A stream that emits multiple other streams one after another (streams2)
 - [floatdrop/stream-assert](https://github.com/floatdrop/stream-assert) - Assertion library for streams
 - [freeall/progress-stream](https://github.com/freeall/progress-stream) - Read the progress of a stream
@@ -41,6 +42,8 @@ Awesome resources and modules for Streams in Node
 - [sindresorhus/into-stream](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream
 - [sindresorhus/is-stream](https://github.com/sindresorhus/is-stream) - Check if something is a Node.js stream
 - [stream-utils/destroy](https://github.com/stream-utils/destroy) - destroy a stream if possible
+- [substack/emit-stream](https://github.com/substack/emit-stream) - turn event emitters into streams and streams into event emitters
+- [substack/oppressor](https://github.com/substack/oppressor) - streaming http compression response negotiator
 - [substack/stream-combiner2](https://github.com/substack/stream-combiner2) - stream-combiner for streams3
 - [substack/resumer](https://github.com/substack/resumer) - a through stream that starts paused and resumes on the next tick
 - [teambition/merge2](https://github.com/teambition/merge2) - Merge multiple streams into one stream in sequence or parallel
