@@ -9,6 +9,7 @@ Awesome resources and modules for Streams in Node
 ## Modules
 
 - [almost/through2-concurrent](https://github.com/almost/through2-concurrent) - Simple Node.JS stream (streams2) Transform that runs the transform functions concurrently (with a set max concurrency)
+- [bendrucker/stream-to-promise](https://github.com/bendrucker/stream-to-promise) - Convert streams (readable or writable) to promises
 - [grncdr/merge-stream](https://github.com/grncdr/merge-stream) - Merge multiple streams into one interleaved stream
 - [dominictarr/event-stream](https://github.com/dominictarr/event-stream) - EventStream is like functional programming meets IO
 - [dominictarr/map-stream](https://github.com/dominictarr/map-stream) - refactored out of event-stream
@@ -37,10 +38,12 @@ Awesome resources and modules for Streams in Node
 - [rvagg/isstream](https://github.com/rvagg/isstream) - Determine if an object is a Node.js Stream
 - [rvagg/through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise
 - [samcday/node-stream-buffer](https://github.com/samcday/node-stream-buffer) - Readable and Writable Streams that use backing Buffers
+- [schnittstabil/stream-from-promise](https://github.com/schnittstabil/stream-from-promise) - Create streams from promises
 - [sindresorhus/first-chunk-stream](https://github.com/sindresorhus/first-chunk-stream) - Buffer and transform the n first bytes of a stream
 - [sindresorhus/get-stream](https://github.com/sindresorhus/get-stream) - Get a stream as a string, buffer, or array
 - [sindresorhus/into-stream](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream
 - [sindresorhus/is-stream](https://github.com/sindresorhus/is-stream) - Check if something is a Node.js stream
+- [spion/promise-streams](https://github.com/spion/promise-streams) - A collection of node.js streams that work well with promises (through, map, reduce, etc...)
 - [stream-utils/destroy](https://github.com/stream-utils/destroy) - destroy a stream if possible
 - [substack/emit-stream](https://github.com/substack/emit-stream) - turn event emitters into streams and streams into event emitters
 - [substack/oppressor](https://github.com/substack/oppressor) - streaming http compression response negotiator
