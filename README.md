@@ -26,6 +26,8 @@ Awesome resources and modules for Streams in Node
 - [mafintosh/peek-stream](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it
 - [mafintosh/pump](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes
 - [mafintosh/pumpify](https://github.com/) - Combine an array of streams into a single duplex stream using pump and duplexify
+- [mafintosh/multi-read-stream](https://github.com/mafintosh/multi-read-stream) - Readable stream that reads from multiple readable streams at the same time
+- [mafintosh/multi-write-stream](https://github.com/mafintosh/multi-write-stream) - Create a writable stream that writes to multiple other writeable streams
 - [mafintosh/tar-stream](https://github.com/mafintosh/tar-stream) - tar-stream is a streaming tar parser and generator
 - [maxogden/binary-split](https://github.com/maxogden/binary-split) - A fast newline (or any delimiter) splitter stream
 - [maxogden/concat-stream](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result
