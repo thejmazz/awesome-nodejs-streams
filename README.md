@@ -23,11 +23,14 @@ Awesome resources and modules for Streams in Node
 - [jahewson/node-byline](https://github.com/jahewson/node-byline) - Line-by-line Stream reader
 - [mafintosh/duplexify](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a streams2 duplex stream with support for async initialization and streams1/streams2 input
 - [mafintosh/end-of-stream](https://github.com/mafintosh/end-of-stream) - Call a callback when a readable/writable/duplex stream has completed or failed
+- [mafintosh/flush-write-stream](https://github.com/mafintosh/flush-write-stream) - A write stream constructor that supports a flush function that is called before finish is emitted
 - [mafintosh/peek-stream](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it
 - [mafintosh/pump](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes
 - [mafintosh/pumpify](https://github.com/) - Combine an array of streams into a single duplex stream using pump and duplexify
 - [mafintosh/multi-read-stream](https://github.com/mafintosh/multi-read-stream) - Readable stream that reads from multiple readable streams at the same time
 - [mafintosh/multi-write-stream](https://github.com/mafintosh/multi-write-stream) - Create a writable stream that writes to multiple other writeable streams
+- [mafintosh/stream-each](https://github.com/mafintosh/stream-each) - Iterate all the data in a stream
+- [mafintosh/stream-shift](https://github.com/mafintosh/stream-shift) - Returns the next buffer/object in a stream's readable queue
 - [mafintosh/tar-stream](https://github.com/mafintosh/tar-stream) - tar-stream is a streaming tar parser and generator
 - [maxogden/binary-split](https://github.com/maxogden/binary-split) - A fast newline (or any delimiter) splitter stream
 - [maxogden/concat-stream](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result
