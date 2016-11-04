@@ -21,6 +21,7 @@ Awesome resources and modules for Streams in Node
 - [freeall/progress-stream](https://github.com/freeall/progress-stream) - Read the progress of a stream
 - [hughsk/from2](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by through2
 - [jahewson/node-byline](https://github.com/jahewson/node-byline) - Line-by-line Stream reader
+- [kikobeats/stream-callback](https://github.com/kikobeats/stream-callback) – Turns a stream into a callback.
 - [mafintosh/duplexify](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a streams2 duplex stream with support for async initialization and streams1/streams2 input
 - [mafintosh/end-of-stream](https://github.com/mafintosh/end-of-stream) - Call a callback when a readable/writable/duplex stream has completed or failed
 - [mafintosh/flush-write-stream](https://github.com/mafintosh/flush-write-stream) - A write stream constructor that supports a flush function that is called before finish is emitted
