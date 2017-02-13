@@ -19,6 +19,7 @@ Awesome resources and modules for Streams in Node
 - [feross/multistream](https://github.com/feross/multistream) - A stream that emits multiple other streams one after another (streams2)
 - [floatdrop/stream-assert](https://github.com/floatdrop/stream-assert) - Assertion library for streams
 - [freeall/progress-stream](https://github.com/freeall/progress-stream) - Read the progress of a stream
+- [gagle/node-streamifier](https://github.com/gagle/node-streamifier) - Converts a Buffer/String to a readable stream.
 - [hughsk/from2](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by through2
 - [jahewson/node-byline](https://github.com/jahewson/node-byline) - Line-by-line Stream reader
 - [kikobeats/stream-callback](https://github.com/kikobeats/stream-callback) – Turns a stream into a callback.
