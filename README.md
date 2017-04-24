@@ -1,10 +1,15 @@
-# awesome-nodejs-streams
+# awesome-nodejs-streams [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Awesome resources and modules for Streams in Node
 
 ## Articles
 
 - [Why I don't use Node's core 'stream' module](https://r.va.gg/2014/06/why-i-dont-use-nodes-core-stream-module.html)
 - [stream-handbook](https://github.com/substack/stream-handbook)
+- [The Definitive Guide to Object Streams in Node.js](https://community.risingstack.com/the-definitive-guide-to-object-streams-in-node-js)
+
+## Interactive
+
+- [stream-adventure](https://github.com/workshopper/stream-adventure)
 
 ## Modules
 
