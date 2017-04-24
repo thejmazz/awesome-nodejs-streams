@@ -5,6 +5,7 @@ Awesome resources and modules for Streams in Node
 
 - [Why I don't use Node's core 'stream' module](https://r.va.gg/2014/06/why-i-dont-use-nodes-core-stream-module.html)
 - [stream-handbook](https://github.com/substack/stream-handbook)
+- [The Definitive Guide to Object Streams in Node.js](https://community.risingstack.com/the-definitive-guide-to-object-streams-in-node-js)
 
 ## Modules
 
