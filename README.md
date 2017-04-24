@@ -7,6 +7,10 @@ Awesome resources and modules for Streams in Node
 - [stream-handbook](https://github.com/substack/stream-handbook)
 - [The Definitive Guide to Object Streams in Node.js](https://community.risingstack.com/the-definitive-guide-to-object-streams-in-node-js)
 
+## Interactive
+
+- [stream-adventure](https://github.com/workshopper/stream-adventure)
+
 ## Modules
 
 - [almost/through2-concurrent](https://github.com/almost/through2-concurrent) - Simple Node.JS stream (streams2) Transform that runs the transform functions concurrently (with a set max concurrency)
