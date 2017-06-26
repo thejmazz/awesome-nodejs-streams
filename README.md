@@ -22,6 +22,7 @@ Awesome resources and modules for Streams in Node
 - [grncdr/merge-stream](https://github.com/grncdr/merge-stream) - Merge multiple streams into one interleaved stream
 - [dominictarr/event-stream](https://github.com/dominictarr/event-stream) - EventStream is like functional programming meets IO
 - [dominictarr/map-stream](https://github.com/dominictarr/map-stream) - refactored out of event-stream
+- [dominictarr/JSONStream](https://github.com/dominictarr/JSONStream) - streaming JSON.parse and stringify
 - [dominictarr/split](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk. matcher may be a String, or a RegExp
 - [dominictarr/stream-combiner](https://github.com/dominictarr/stream-combiner) - Turn a pipeline into a single stream. Combine returns a stream that writes to the first stream and reads from the last stream
 - [dominictarr/stream-spec](https://github.com/dominictarr/stream-spec) - executable specification for Stream (make testing streams easy)
@@ -46,6 +47,7 @@ Awesome resources and modules for Streams in Node
 - [maxogden/binary-split](https://github.com/maxogden/binary-split) - A fast newline (or any delimiter) splitter stream
 - [maxogden/concat-stream](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result
 - [maxogden/mississippi](https://github.com/maxogden/mississippi) - A collection of useful stream utility modules for writing better code using streams
+- [maxogden/ndjson](https://github.com/maxogden/ndjson) - streaming line delimited json parser + serializer
 - [mcollina/split2](https://github.com/mcollina/split2) - Split streams3 style
 - [nodejs/readable-stream](https://github.com/nodejs/readable-stream) - Node-core streams for userland
 - [npm/fstream](https://github.com/npm/fstream) - Advanced FS Streaming for Node
@@ -66,3 +68,4 @@ Awesome resources and modules for Streams in Node
 - [substack/stream-combiner2](https://github.com/substack/stream-combiner2) - stream-combiner for streams3
 - [substack/resumer](https://github.com/substack/resumer) - a through stream that starts paused and resumes on the next tick
 - [teambition/merge2](https://github.com/teambition/merge2) - Merge multiple streams into one stream in sequence or parallel
+- [uhop/stream-json](https://github.com/uhop/stream-json) - stream-json is a collection of node.js stream components for creating custom standard-compliant JSON processors, which requires a minimal memory footprint. It can parse JSON files far exceeding available memory. Even individual primitive data items (keys, strings, and numbers) can be streamed piece-wise. Streaming SAX-inspired event-based API is included as well.
