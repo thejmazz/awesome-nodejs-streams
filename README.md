@@ -47,7 +47,8 @@ Awesome resources and modules for Streams in Node
 - [maxogden/binary-split](https://github.com/maxogden/binary-split) - A fast newline (or any delimiter) splitter stream
 - [maxogden/concat-stream](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result
 - [maxogden/mississippi](https://github.com/maxogden/mississippi) - A collection of useful stream utility modules for writing better code using streams
-- [maxogden/ndjson](https://github.com/maxogden/ndjson) - streaming line delimited json parser + serializer
+- [maxogden/ndjson](https://github.com/maxogden/ndjson) - streaming line delimited json parser + serializer](https://github.com/mcollina/cloneable-readable)
+- [mcollina/cloneable-readable](https://github.com/mcollina/cloneable-readable) - Clone a Readable stream, safely 
 - [mcollina/split2](https://github.com/mcollina/split2) - Split streams3 style
 - [nodejs/readable-stream](https://github.com/nodejs/readable-stream) - Node-core streams for userland
 - [npm/fstream](https://github.com/npm/fstream) - Advanced FS Streaming for Node
