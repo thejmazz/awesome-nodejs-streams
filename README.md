@@ -64,6 +64,7 @@ Awesome resources and modules for Streams in Node
 - [sindresorhus/is-stream](https://github.com/sindresorhus/is-stream) - Check if something is a Node.js stream
 - [spion/promise-streams](https://github.com/spion/promise-streams) - A collection of node.js streams that work well with promises (through, map, reduce, etc...)
 - [stream-utils/destroy](https://github.com/stream-utils/destroy) - destroy a stream if possible
+- [suarasaur/exec-stream](https://github.com/suarasaur/exec-stream) - stream to a child process 
 - [substack/emit-stream](https://github.com/substack/emit-stream) - turn event emitters into streams and streams into event emitters
 - [substack/oppressor](https://github.com/substack/oppressor) - streaming http compression response negotiator
 - [substack/stream-combiner2](https://github.com/substack/stream-combiner2) - stream-combiner for streams3
