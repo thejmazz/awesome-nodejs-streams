@@ -71,3 +71,4 @@ Awesome resources and modules for Streams in Node
 - [substack/resumer](https://github.com/substack/resumer) - a through stream that starts paused and resumes on the next tick
 - [teambition/merge2](https://github.com/teambition/merge2) - Merge multiple streams into one stream in sequence or parallel
 - [uhop/stream-json](https://github.com/uhop/stream-json) - stream-json is a collection of node.js stream components for creating custom standard-compliant JSON processors, which requires a minimal memory footprint. It can parse JSON files far exceeding available memory. Even individual primitive data items (keys, strings, and numbers) can be streamed piece-wise. Streaming SAX-inspired event-based API is included as well.
+- [caolan/highland](https://highlandjs.org/#) - The high-level streams library for Node.js and the browser.
