@@ -17,6 +17,7 @@ Awesome resources and modules for Streams in Node
 
 ## Modules
 
+- [lewisdiamond/stromjs](https://github.com/lewisdiamond/stromjs) - Dependency-free stream utils. The Lodash of streams.
 - [almost/through2-concurrent](https://github.com/almost/through2-concurrent) - Simple Node.JS stream (streams2) Transform that runs the transform functions concurrently (with a set max concurrency)
 - [bendrucker/stream-to-promise](https://github.com/bendrucker/stream-to-promise) - Convert streams (readable or writable) to promises
 - [grncdr/merge-stream](https://github.com/grncdr/merge-stream) - Merge multiple streams into one interleaved stream
