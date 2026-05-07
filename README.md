@@ -54,6 +54,7 @@ Awesome resources and modules for Streams in Node
 - [nodejs/readable-stream](https://github.com/nodejs/readable-stream) - Node-core streams for userland
 - [npm/fstream](https://github.com/npm/fstream) - Advanced FS Streaming for Node
 - [parshap/node-stream-reduce](https://github.com/parshap/node-stream-reduce) - Reduce stream data to a single value
+- [pujansrt/data-genie](https://github.com/pujansrt/data-genie) - High-performance, streaming-first ETL engine for processing massive datasets with a constant memory footprint.
 - [raynos/duplexer](https://github.com/raynos/duplexer) - Creates a duplex stream
 - [rvagg/isstream](https://github.com/rvagg/isstream) - Determine if an object is a Node.js Stream
 - [rvagg/through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise
